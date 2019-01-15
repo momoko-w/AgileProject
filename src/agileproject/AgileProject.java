@@ -16,6 +16,7 @@ public class AgileProject {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.Out.Println("A test from Freya");
     }
     
 }
