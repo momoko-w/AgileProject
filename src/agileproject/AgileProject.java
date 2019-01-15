@@ -19,6 +19,7 @@ public class AgileProject {
         System.out.println("A test from Freya");
         System.out.println("A test from Cerys");
         System.out.println("A test from Shanshan");
+        System.out.println("A test from Jiaxin");
     }
     
 }
