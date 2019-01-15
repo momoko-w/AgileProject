@@ -18,7 +18,6 @@ public class AgileProject {
         // TODO code application logic here
         System.out.println("A test from Freya");
         System.out.println("A test from Cerys");
-        System.out.println("A test from Shanshan");
     }
     
 }
