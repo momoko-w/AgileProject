@@ -15,12 +15,13 @@ public class AgileProject {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        // testing commit, push and pull
         System.out.println("A test from Freya");
         System.out.println("A test from Cerys");
         System.out.println("A test from Shanshan");
         System.out.println("A test from Jiaxin");
         System.out.println("A test from Lucy T");
+        System.out.println("A test from Momo");
     }
     
 }
