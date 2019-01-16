@@ -22,6 +22,9 @@ public class AgileProject {
         System.out.println("A test from Jiaxin");
         System.out.println("A test from Lucy T");
         System.out.println("A test from Momo");
+        
+        //testing branches and pull requests etc. 
+        System.out.println("This is my branch that I will merge with the main branch");
     }
     
 }
