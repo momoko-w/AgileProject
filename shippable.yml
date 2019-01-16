@@ -2,7 +2,4 @@ language: java
 
 jdk: 
   - oraclejdk11
-
-build:
-  ci:
-    - ant test
+  
