@@ -25,6 +25,7 @@ public class AgileProject {
         
         //testing branches and pull requests etc. 
         System.out.println("I am trying to create a conflict");
+        System.out.println("I am creating a conflict");
     }
     
 }
