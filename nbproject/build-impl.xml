@@ -84,11 +84,11 @@ is divided into following sections:
     </target>
     <target depends="-init-modules-supported,-init-macrodef-modulename" if="modules.supported.internal" name="-init-source-module-properties">
         <fail message="Java 9 support requires Ant 1.10.0 or higher.">
-            <condition>
+            <!--<condition>
                 <not>
                     <antversion atleast="1.10.0"/>
                 </not>
-            </condition>
+            </condition>-->
         </fail>
         <j2seproject3:modulename property="module.name" sourcepath="${src.dir}"/>
         <condition property="named.module.internal">
