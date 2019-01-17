@@ -5,3 +5,4 @@ jdk:
 
 build:
   ci:
+    - ant test
